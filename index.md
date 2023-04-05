@@ -4,6 +4,7 @@
 
 ## **About Me**
 > I am a 2<sup>nd</sup> year student majoring in Computer Science and minoring in ~~ICAM~~ Business. Following are some of my hobbies:
+
 * running
 * baking + cooking ([link to my fav food 😋](food.md))
 * playing basketball
@@ -38,7 +39,7 @@ CS can be applied to so many fields, and there's a lot of jobs that I want to ex
 ## **Contact Info and Links**
 *Feel free to contact me or check out some of my projects below:*
 
-**Personal Info:** soy001@ucsd.edu | [LinkedIn](https://www.linkedin.com/in/syu125/) | [Github](https://github.com/Syu125)
+**Personal Info:** soy001@ucsd.edu || [LinkedIn](https://www.linkedin.com/in/syu125/) || [Github](https://github.com/Syu125)
 
 **Projects:** 
 > [Project Avatar](https://devpost.com/software/avatar-52ekr4)
