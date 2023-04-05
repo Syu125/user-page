@@ -1,6 +1,6 @@
 # **Sophia Yu**
 ![](images/cover-photo-long.jpg)
-**[About Me](#about-me) | [Software Engineering](#software-engineering) | [Contact Info and Links](#contact-information-and-links)**
+**[About Me](#about-me) | [Software Engineering](#software-engineering) | [Contact Info and Links](#contact-info-and-links)**
 
 ## **About Me**
 > I am a 2<sup>nd</sup> year student majoring in Computer Science and minoring in ~~ICAM~~ Business. Following are some of my hobbies:
