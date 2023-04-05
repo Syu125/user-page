@@ -3,7 +3,7 @@
 **[About Me](#about-me) | [Software Engineering](#software-engineering) | [Contact Info and Links](#contact-information-and-links)**
 
 ## **About Me**
-I am a 2<sup>nd</sup> year student majoring in Computer Science and minoring in ~~ICAM~~ Business. Following are some of my hobbies:
+> I am a 2<sup>nd</sup> year student majoring in Computer Science and minoring in ~~ICAM~~ Business. Following are some of my hobbies:
 * running
 * baking + cooking ([link to my fav food 😋](food.md))
 * playing basketball
@@ -15,8 +15,15 @@ I am a 2<sup>nd</sup> year student majoring in Computer Science and minoring in 
 👟 fun fact: I'm training for a half marathon right now
 ```
 ## **Software Engineering**
-I have two years of work experience and 6+ years of programming experience in total.
-> My most fluent language is Java, but I have been mainly writing in C++ in these recent years. In addition, I have experience with HTML/CSS, Linux, Python, and ARM.
+> I have two years of work experience and 6+ years of programming experience in total.
+
+Here is a list of all the languages I have been exposed to:
+1. **Java:** 6+ years; achieved Oracle Certified Associate, SE 8 Programmer
+2. **C++:** 2 years; learned in college; main language used in courses
+3. **HTML/CSS:** 2+ years; started learning in high school
+4. **Linux:** 4+ years; frequently used in terminal
+5. **Python:** less than a year; learned a bit in high school and picking it up again
+6. **ARM:** less than a year; learned for a course in college
 
 CS can be applied to so many fields, and there's a lot of jobs that I want to explore. Below are some that I have or want to experience:
 
