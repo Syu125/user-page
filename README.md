@@ -2,4 +2,4 @@
 
 My favorite programming language is C++.
 
-**GitHub Page URL:** https://github.com/Syu125/user-page
+**[GitHub Page](https://syu125.github.io/user-page/)**
